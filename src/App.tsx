@@ -10,7 +10,7 @@ import { AboutUs } from './components/AboutUs';
 const App = () => {
   return (
     <div className="bg-gray-900 text-white">
-      {/* Navigation */}
+      {/* Navigation  */}
       <Navigation />
 
       {/* Hero Section */}
